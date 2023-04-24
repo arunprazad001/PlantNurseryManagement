@@ -56,3 +56,6 @@
 
 
 ![ER Diagram of Plant Nursery Project](https://user-images.githubusercontent.com/101566868/201512797-be069811-3bfb-4d9e-a6ce-0d4acc7c9d5b.jpeg)
+
+
+Explanation video link : https://drive.google.com/file/d/1UY64WccuAuusjHfYTDw1YyqoCCIOswMv/view
